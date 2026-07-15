@@ -1,0 +1,19 @@
+category_slug,category_name,rank,brand_slug,brand_name,editorial_score_10,research_url
+refrigerators,Refrigerators,1,ge-appliances,GE Appliances,8.5,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/ge-appliances/refrigerators
+refrigerators,Refrigerators,2,whirlpool,Whirlpool,8.3,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/whirlpool/refrigerators
+refrigerators,Refrigerators,3,bosch,Bosch,8.1,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/bosch/refrigerators
+washers,Washing Machines,1,lg,LG,8.8,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/lg/washers
+washers,Washing Machines,2,speed-queen,Speed Queen,8.6,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/speed-queen/washers
+washers,Washing Machines,3,electrolux,Electrolux,8.1,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/electrolux/washers
+dryers,Clothes Dryers,1,speed-queen,Speed Queen,8.9,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/speed-queen/dryers
+dryers,Clothes Dryers,2,lg,LG,8.5,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/lg/dryers
+dryers,Clothes Dryers,3,whirlpool,Whirlpool,8.2,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/whirlpool/dryers
+dishwashers,Dishwashers,1,bosch,Bosch,8.9,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/bosch/dishwashers
+dishwashers,Dishwashers,2,miele,Miele,8.7,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/miele/dishwashers
+dishwashers,Dishwashers,3,kitchenaid,KitchenAid,8.2,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/kitchenaid/dishwashers
+ranges,Ranges & Ovens,1,ge-appliances,GE Appliances,8.6,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/ge-appliances/ranges
+ranges,Ranges & Ovens,2,whirlpool,Whirlpool,8.4,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/whirlpool/ranges
+ranges,Ranges & Ovens,3,frigidaire,Frigidaire,8,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/frigidaire/ranges
+microwaves,Microwaves,1,panasonic,Panasonic,8.5,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/panasonic/microwaves
+microwaves,Microwaves,2,sharp,Sharp,8.2,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/sharp/microwaves
+microwaves,Microwaves,3,ge-appliances,GE Appliances,7.9,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/brands/ge-appliances/microwaves

@@ -1,0 +1,19 @@
+category_slug,category_name,issue_rank,issue_name,common_symptom,typical_repair_cost_usd,guide_url
+refrigerators,Refrigerators,1,Ice maker,No ice or a leaking tray,$180 - $450,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/refrigerators
+refrigerators,Refrigerators,2,Compressor,Not cooling or loud cycling,"$700 - $1,400",https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/refrigerators
+refrigerators,Refrigerators,3,Door gasket,Condensation and warm spots,$120 - $280,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/refrigerators
+washers,Washing Machines,1,Drain pump,Water remains after a cycle,$180 - $420,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/washers
+washers,Washing Machines,2,Door seal,Leaks or musty odour,$160 - $360,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/washers
+washers,Washing Machines,3,Control board,Dead panel or erratic cycles,$280 - $650,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/washers
+dryers,Clothes Dryers,1,Heating element,Drum turns without heat,$170 - $380,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/dryers
+dryers,Clothes Dryers,2,Thermal fuse,Dryer stops or will not start,$100 - $220,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/dryers
+dryers,Clothes Dryers,3,Drum rollers,Thumping or squealing,$160 - $330,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/dryers
+dishwashers,Dishwashers,1,Circulation pump,Poor cleaning or humming,$300 - $650,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/dishwashers
+dishwashers,Dishwashers,2,Drain blockage,Standing water,$120 - $280,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/dishwashers
+dishwashers,Dishwashers,3,Door latch,Cycle will not begin,$140 - $310,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/dishwashers
+ranges,Ranges & Ovens,1,Igniter,Slow or failed ignition,$170 - $360,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/ranges
+ranges,Ranges & Ovens,2,Heating element,Uneven or no heat,$160 - $370,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/ranges
+ranges,Ranges & Ovens,3,Control panel,Display or keypad failure,$300 - $750,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/ranges
+microwaves,Microwaves,1,Door switch,Will not start,$100 - $230,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/microwaves
+microwaves,Microwaves,2,Magnetron,Runs without heating,$250 - $500,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/microwaves
+microwaves,Microwaves,3,Turntable motor,Plate does not rotate,$110 - $240,https://appliance-lifespan-guide.masterblaster1.chatgpt.site/appliances/microwaves

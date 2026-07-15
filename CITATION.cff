@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "US Appliance Lifespan by State, Brand and Common Issue"
+type: dataset
+authors:
+  - name: "Lifespan Lab"
+version: 1.0.0
+date-released: 2026-07-15
+repository-code: "https://github.com/thisismyuserdealwithit/us-appliance-lifespan-data"
+url: "https://appliance-lifespan-guide.masterblaster1.chatgpt.site"
+license: CC-BY-4.0
+abstract: "Editorial appliance working-life ranges, broad state adjustments, common repair issues and brand research covering six categories and all 50 US states."
+keywords:
+  - home appliances
+  - appliance lifespan
+  - appliance repair
+  - consumer research
+  - United States

@@ -1,0 +1,11 @@
+source_key,source_label,source_url,scope_and_limit
+yale2026,Yale Appliance 2026 reliability report,https://blog.yaleappliance.com/the-least-serviced-most-reliable-appliance-brands,"First-year service rates from 33,190 service calls in Yale Appliance's regional sales and service area."
+jd2025,J.D. Power 2025 U.S. Appliance Satisfaction Study,https://www.jdpower.com/business/press-releases/2025-us-appliance-satisfaction-study,"Owner satisfaction findings from 15,884 evaluations gathered after a recent appliance purchase."
+acsi2025,ACSI 2025 household appliance benchmarks,https://theacsi.com/industries/manufacturing/household-appliances/,Annual customer satisfaction benchmarks by company and appliance type.
+nahb,NAHB Study of Life Expectancy of Home Components,https://www.nahb.org/-/media/NAHB/news-and-economics/docs/housing-economics/other-study-of-life-expectancy-of-home-components.pdf,The long-running baseline behind many quoted household appliance life estimates.
+energyFridge,ENERGY STAR refrigerator guidance,https://www.energystar.gov/products/refrigerators,"Federal buying guidance covering size, layout, door seals, airflow and operating cost."
+energyWasher,ENERGY STAR clothes washer guidance,https://www.energystar.gov/products/clothes_washers,"Federal guidance on washer efficiency, load size and front-load maintenance."
+energyDryer,ENERGY STAR clothes dryer guidance,https://www.energystar.gov/products/clothes_dryers,Federal buying information for vented and heat-pump dryers.
+energyDishwasher,ENERGY STAR dishwasher guidance,https://www.energystar.gov/products/dishwashers,Federal operating-cost and water-use guidance for current dishwashers.
+dryerSafety,U.S. Fire Administration dryer safety guidance,https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/dryers/,"Official advice on lint, venting and dryer fire prevention."
+microwaveSafety,FDA microwave oven safety guidance,https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/microwave-ovens,"Federal information on microwave operation, leakage standards and safe use."

@@ -1,0 +1,13 @@
+file,field,definition
+appliances.csv,typical_years,Editorial national planning figure for a category; not a guaranteed service life.
+appliances.csv,low_years / high_years,Broad national working-life range intended for consumer planning.
+appliances.csv,confidence,"Editorial confidence in the usefulness of the category range, not a statistical confidence interval."
+brands.csv,editorial_score_10,Lifespan Lab editorial score out of 10; not a measured failure probability.
+appliance_brand_scores.csv,rank,Position within the three brands highlighted for that appliance category.
+common_issues.csv,typical_repair_cost_usd,Broad consumer planning range in US dollars; local quotes and parts can differ.
+state_profiles.csv,adjustment_factor,Restrained editorial multiplier used to model broad state conditions.
+state_profiles.csv,modeled_adjustment_percent,Whole-number percentage difference implied by the adjustment factor.
+state_appliance_estimates.csv,modeled_state_typical_years,National typical years multiplied by the state adjustment factor and rounded to one decimal.
+state_appliance_estimates.csv,modeled_state_low_years / modeled_state_high_years,National range bounds multiplied by the state factor and rounded to one decimal.
+brand_appliance_research.csv,research_summary,Long-form editorial synthesis for one brand and appliance pairing.
+research_sources.csv,scope_and_limit,What a source measures and the main limitation relevant to interpretation.
